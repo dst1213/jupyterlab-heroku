@@ -1,1 +1,7 @@
-jupyterlab
+jupyter
+baostock
+akshare
+numpy
+pandas
+flask
+jupyterlab==3
